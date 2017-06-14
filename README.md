@@ -1,4 +1,4 @@
-# Human and The Land
+# Humans and The Land
 
 The subtitle made with [https://github.com/otsaloma/gaupol](https://github.com/otsaloma/gaupol).
 
